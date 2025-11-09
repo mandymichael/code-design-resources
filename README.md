@@ -9,3 +9,7 @@ A collection of handy resources for Designer Engineer Alignment
 
 ## Figma MCP Server
 [Guide to the Figma MCP Server](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
+
+
+## Bonus 
+[Slides Code Highlighter](https://romannurik.github.io/SlidesCodeHighlighter)
